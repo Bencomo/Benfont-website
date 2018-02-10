@@ -27,5 +27,5 @@ Use the following guidelines when developing your project:
 ## Deployment Instructions
 * Download the files to your computer and open index.html in your favourite browser
 
-# Note: all of the images contained in the files belong to Benfont Limited, please do not distribute them without conscent. 
-# For more information please contact development@benfont.com
+Note: all of the images contained in the files belong to Benfont Limited, please do not distribute them without conscent. 
+For more information please contact development@benfont.com
