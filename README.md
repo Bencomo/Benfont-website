@@ -1,11 +1,5 @@
 Website project created by Jonathan Bencomo for the Code Institute, Dublin 2018.
 
-## Project guidelines
-
-## Create an online cookbook:
-* Create a web application that
-
-
 ## Project Brief
 * CREATE YOUR OWN PROJECT - in this case I updated the website of my company Benfont Limited.
 A live version of this site can be found at: https://benfont.com/
@@ -27,5 +21,5 @@ Use the following guidelines when developing your project:
 ## Deployment Instructions
 * Download the files to your computer and open index.html in your favourite browser
 
-Note: all of the images contained in the files belong to Benfont Limited, please do not distribute them without conscent. 
+Note: all of the images contained in Benfont's website belong to Benfont Limited, please do not distribute them without conscent. 
 For more information please contact development@benfont.com
